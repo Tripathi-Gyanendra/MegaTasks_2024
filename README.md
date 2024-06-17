@@ -3,3 +3,4 @@ After extraction folder contains 2 source file String.cpp , Main.cpp and a Heade
 String.h contains list declared function which are supported in mega::String and string.cpp contains their actual implementation.
 Main.cpp is Unit-Test file which contains set of functions which will be used to test the mega::String functionality/Unit test.
 Source has already been compiled on QT and Build Folder contains built binaries.
+There are 2 documents which are answeres to Assignment task 1 and task2.
